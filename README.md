@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+```mermaid
+graph LR
+A(s0) -->|p| B(上升 = s0*u , u>1) 
+A(s0) -->|1-p| C(下降 = s0*d , d<1)
+
+```
 <!--
 **ZhendongZhangSCAU/ZhendongZhangSCAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
