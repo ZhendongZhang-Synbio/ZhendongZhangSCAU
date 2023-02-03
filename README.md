@@ -1,22 +1,11 @@
-### Hi there 👋
+  😄Hi! Welcome to share metabolic engineering and computational biology information with me.
 
 ```mermaid
 graph LR
-A(s0) -->|p| B(上升 = s0*u , u>1) 
-A(s0) -->|1-p| C(下降 = s0*d , d<1)
+A(Design) -->|tools| B(Build)
+B(Build) -->|data| C(Learn)
+C(Learn) -->|ideas| A(Design)
 
 ```
-<!--
-**ZhendongZhangSCAU/ZhendongZhangSCAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">$synthetic$ $biology$</p>
